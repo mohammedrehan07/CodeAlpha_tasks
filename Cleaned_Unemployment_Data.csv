@@ -1,0 +1,1036 @@
+Region,Date,Unemployment_Rate
+Andhra Pradesh,2019-05-31,3.65
+Andhra Pradesh,2019-06-30,3.05
+Andhra Pradesh,2019-07-31,3.75
+Andhra Pradesh,2019-08-31,3.32
+Andhra Pradesh,2019-09-30,5.17
+Andhra Pradesh,2019-10-31,3.52
+Andhra Pradesh,2019-11-30,4.12
+Andhra Pradesh,2019-12-31,4.38
+Andhra Pradesh,2020-01-31,4.84
+Andhra Pradesh,2020-02-29,5.91
+Andhra Pradesh,2020-03-31,4.06
+Andhra Pradesh,2020-04-30,16.29
+Andhra Pradesh,2020-05-31,14.46
+Andhra Pradesh,2020-06-30,0.85
+Assam,2019-05-31,4.29
+Assam,2019-06-30,5.08
+Assam,2019-07-31,4.26
+Assam,2019-08-31,5.79
+Assam,2019-09-30,4.46
+Assam,2019-10-31,4.65
+Assam,2019-11-30,4.66
+Assam,2020-01-31,4.29
+Assam,2020-02-29,3.26
+Assam,2020-03-31,3.77
+Assam,2020-05-31,9.38
+Assam,2020-06-30,0.0
+Bihar,2019-05-31,9.27
+Bihar,2019-06-30,10.2
+Bihar,2019-07-31,13.44
+Bihar,2019-08-31,11.0
+Bihar,2019-09-30,8.87
+Bihar,2019-10-31,12.47
+Bihar,2019-11-30,12.4
+Bihar,2019-12-31,10.16
+Bihar,2020-01-31,9.13
+Bihar,2020-02-29,9.61
+Bihar,2020-03-31,15.39
+Bihar,2020-04-30,45.09
+Bihar,2020-05-31,47.26
+Bihar,2020-06-30,20.49
+Chhattisgarh,2019-05-31,9.82
+Chhattisgarh,2019-06-30,6.76
+Chhattisgarh,2019-07-31,4.54
+Chhattisgarh,2019-08-31,4.64
+Chhattisgarh,2019-09-30,8.33
+Chhattisgarh,2019-10-31,6.96
+Chhattisgarh,2019-11-30,2.77
+Chhattisgarh,2019-12-31,6.11
+Chhattisgarh,2020-01-31,9.89
+Chhattisgarh,2020-02-29,7.89
+Chhattisgarh,2020-03-31,7.31
+Chhattisgarh,2020-04-30,0.0
+Chhattisgarh,2020-05-31,7.64
+Chhattisgarh,2020-06-30,10.14
+Delhi,2019-05-31,12.56
+Delhi,2019-06-30,9.33
+Delhi,2019-07-31,11.07
+Delhi,2019-08-31,17.18
+Delhi,2019-09-30,12.5
+Delhi,2019-10-31,15.84
+Delhi,2019-11-30,11.11
+Delhi,2019-12-31,16.97
+Delhi,2020-01-31,13.48
+Delhi,2020-02-29,13.81
+Delhi,2020-03-31,15.18
+Delhi,2020-04-30,20.69
+Delhi,2020-05-31,22.76
+Delhi,2020-06-30,21.14
+Goa,2019-05-31,2.91
+Goa,2019-06-30,5.45
+Goa,2019-07-31,10.98
+Goa,2019-08-31,1.98
+Goa,2019-09-30,3.61
+Goa,2019-10-31,7.21
+Goa,2019-11-30,23.71
+Goa,2019-12-31,3.54
+Goa,2020-01-31,5.38
+Goa,2020-02-29,0.0
+Goa,2020-04-30,15.91
+Goa,2020-05-31,20.0
+Gujarat,2019-05-31,2.88
+Gujarat,2019-06-30,4.77
+Gujarat,2019-07-31,4.58
+Gujarat,2019-08-31,3.7
+Gujarat,2019-09-30,6.29
+Gujarat,2019-10-31,4.91
+Gujarat,2019-11-30,4.68
+Gujarat,2019-12-31,3.46
+Gujarat,2020-01-31,5.35
+Gujarat,2020-02-29,6.64
+Gujarat,2020-03-31,7.59
+Gujarat,2020-04-30,12.0
+Gujarat,2020-05-31,14.58
+Gujarat,2020-06-30,1.41
+Haryana,2019-05-31,14.54
+Haryana,2019-06-30,23.08
+Haryana,2019-07-31,16.22
+Haryana,2019-08-31,30.94
+Haryana,2019-09-30,16.36
+Haryana,2019-10-31,24.17
+Haryana,2019-11-30,16.59
+Haryana,2019-12-31,29.56
+Haryana,2020-01-31,16.21
+Haryana,2020-02-29,27.19
+Haryana,2020-03-31,23.92
+Haryana,2020-04-30,41.61
+Haryana,2020-05-31,34.22
+Haryana,2020-06-30,35.57
+Himachal Pradesh,2019-05-31,13.68
+Himachal Pradesh,2019-06-30,11.43
+Himachal Pradesh,2019-07-31,20.59
+Himachal Pradesh,2019-08-31,18.56
+Himachal Pradesh,2019-09-30,15.98
+Himachal Pradesh,2019-10-31,15.81
+Himachal Pradesh,2019-11-30,22.86
+Himachal Pradesh,2019-12-31,19.46
+Himachal Pradesh,2020-01-31,16.67
+Himachal Pradesh,2020-02-29,15.42
+Himachal Pradesh,2020-03-31,17.71
+Himachal Pradesh,2020-04-30,2.13
+Himachal Pradesh,2020-05-31,25.64
+Himachal Pradesh,2020-06-30,1.12
+Jammu & Kashmir,2019-05-31,12.78
+Jammu & Kashmir,2019-06-30,12.09
+Jammu & Kashmir,2019-07-31,13.67
+Jammu & Kashmir,2019-08-31,11.32
+Jammu & Kashmir,2019-10-31,19.27
+Jammu & Kashmir,2019-11-30,14.73
+Jammu & Kashmir,2020-01-31,22.19
+Jammu & Kashmir,2020-02-29,21.23
+Jammu & Kashmir,2020-03-31,16.0
+Jammu & Kashmir,2020-05-31,2.22
+Jammu & Kashmir,2020-06-30,18.97
+Jharkhand,2019-05-31,7.11
+Jharkhand,2019-06-30,8.46
+Jharkhand,2019-07-31,9.98
+Jharkhand,2019-08-31,12.06
+Jharkhand,2019-09-30,7.12
+Jharkhand,2019-10-31,6.57
+Jharkhand,2019-11-30,8.07
+Jharkhand,2019-12-31,15.15
+Jharkhand,2020-01-31,6.16
+Jharkhand,2020-02-29,9.06
+Jharkhand,2020-03-31,5.01
+Jharkhand,2020-04-30,41.72
+Jharkhand,2020-05-31,55.1
+Jharkhand,2020-06-30,21.53
+Karnataka,2019-05-31,5.46
+Karnataka,2019-06-30,5.98
+Karnataka,2019-07-31,0.52
+Karnataka,2019-08-31,0.37
+Karnataka,2019-09-30,3.2
+Karnataka,2019-10-31,7.13
+Karnataka,2019-11-30,1.19
+Karnataka,2019-12-31,0.41
+Karnataka,2020-01-31,2.57
+Karnataka,2020-02-29,4.11
+Karnataka,2020-03-31,2.39
+Karnataka,2020-04-30,33.17
+Karnataka,2020-05-31,23.72
+Karnataka,2020-06-30,10.92
+Kerala,2019-05-31,6.63
+Kerala,2019-06-30,9.0
+Kerala,2019-07-31,4.95
+Kerala,2019-08-31,10.32
+Kerala,2019-09-30,5.35
+Kerala,2019-10-31,9.14
+Kerala,2019-11-30,5.0
+Kerala,2019-12-31,10.77
+Kerala,2020-01-31,4.11
+Kerala,2020-02-29,8.91
+Kerala,2020-03-31,8.85
+Kerala,2020-04-30,10.71
+Kerala,2020-05-31,23.38
+Kerala,2020-06-30,27.66
+Madhya Pradesh,2019-05-31,3.63
+Madhya Pradesh,2019-06-30,4.25
+Madhya Pradesh,2019-07-31,3.92
+Madhya Pradesh,2019-08-31,4.94
+Madhya Pradesh,2019-09-30,3.08
+Madhya Pradesh,2019-10-31,2.98
+Madhya Pradesh,2019-11-30,2.72
+Madhya Pradesh,2019-12-31,2.94
+Madhya Pradesh,2020-01-31,3.66
+Madhya Pradesh,2020-02-29,4.42
+Madhya Pradesh,2020-03-31,1.19
+Madhya Pradesh,2020-04-30,12.5
+Madhya Pradesh,2020-05-31,22.46
+Madhya Pradesh,2020-06-30,6.46
+Maharashtra,2019-05-31,3.67
+Maharashtra,2019-06-30,4.34
+Maharashtra,2019-07-31,3.66
+Maharashtra,2019-08-31,3.76
+Maharashtra,2019-09-30,4.4
+Maharashtra,2019-10-31,3.81
+Maharashtra,2019-11-30,3.68
+Maharashtra,2019-12-31,3.03
+Maharashtra,2020-01-31,3.8
+Maharashtra,2020-02-29,4.24
+Maharashtra,2020-03-31,5.38
+Maharashtra,2020-04-30,25.28
+Maharashtra,2020-05-31,16.89
+Maharashtra,2020-06-30,9.4
+Meghalaya,2019-05-31,3.16
+Meghalaya,2019-06-30,4.23
+Meghalaya,2019-07-31,1.03
+Meghalaya,2019-08-31,0.52
+Meghalaya,2019-09-30,0.24
+Meghalaya,2019-10-31,3.7
+Meghalaya,2019-11-30,1.5
+Meghalaya,2019-12-31,1.8
+Meghalaya,2020-01-31,0.97
+Meghalaya,2020-02-29,2.76
+Meghalaya,2020-03-31,1.28
+Meghalaya,2020-04-30,8.38
+Meghalaya,2020-05-31,3.73
+Meghalaya,2020-06-30,1.35
+Odisha,2019-05-31,4.17
+Odisha,2019-06-30,4.71
+Odisha,2019-07-31,3.31
+Odisha,2019-08-31,3.68
+Odisha,2019-09-30,4.31
+Odisha,2019-10-31,4.28
+Odisha,2019-11-30,4.72
+Odisha,2019-12-31,4.67
+Odisha,2020-01-31,1.81
+Odisha,2020-02-29,3.31
+Odisha,2020-03-31,15.09
+Odisha,2020-04-30,24.48
+Odisha,2020-05-31,9.45
+Odisha,2020-06-30,4.59
+Puducherry,2019-05-31,0.0
+Puducherry,2019-06-30,0.0
+Puducherry,2019-07-31,0.0
+Puducherry,2019-08-31,4.85
+Puducherry,2019-09-30,0.0
+Puducherry,2019-10-31,1.18
+Puducherry,2019-11-30,0.0
+Puducherry,2019-12-31,1.99
+Puducherry,2020-01-31,0.58
+Puducherry,2020-02-29,1.74
+Puducherry,2020-03-31,2.31
+Puducherry,2020-04-30,74.51
+Punjab,2019-05-31,9.17
+Punjab,2019-06-30,12.21
+Punjab,2019-07-31,9.64
+Punjab,2019-08-31,6.69
+Punjab,2019-09-30,8.59
+Punjab,2019-10-31,12.56
+Punjab,2019-11-30,7.07
+Punjab,2019-12-31,6.13
+Punjab,2020-01-31,9.69
+Punjab,2020-02-29,10.41
+Punjab,2020-03-31,10.51
+Punjab,2020-04-30,3.69
+Punjab,2020-05-31,40.59
+Punjab,2020-06-30,20.0
+Rajasthan,2019-05-31,4.03
+Rajasthan,2019-06-30,13.7
+Rajasthan,2019-07-31,9.7
+Rajasthan,2019-08-31,12.5
+Rajasthan,2019-09-30,5.45
+Rajasthan,2019-10-31,14.66
+Rajasthan,2019-11-30,10.47
+Rajasthan,2019-12-31,13.96
+Rajasthan,2020-01-31,8.0
+Rajasthan,2020-02-29,14.48
+Rajasthan,2020-03-31,9.47
+Rajasthan,2020-04-30,12.25
+Rajasthan,2020-05-31,10.45
+Rajasthan,2020-06-30,13.86
+Sikkim,2019-10-31,5.48
+Sikkim,2019-11-30,13.11
+Sikkim,2019-12-31,1.0
+Sikkim,2020-04-30,0.0
+Sikkim,2020-06-30,5.81
+Tamil Nadu,2019-05-31,0.97
+Tamil Nadu,2019-06-30,0.92
+Tamil Nadu,2019-07-31,6.01
+Tamil Nadu,2019-08-31,2.91
+Tamil Nadu,2019-09-30,1.71
+Tamil Nadu,2019-10-31,1.46
+Tamil Nadu,2019-11-30,2.46
+Tamil Nadu,2019-12-31,3.73
+Tamil Nadu,2020-01-31,1.18
+Tamil Nadu,2020-02-29,1.17
+Tamil Nadu,2020-03-31,6.36
+Tamil Nadu,2020-04-30,53.19
+Tamil Nadu,2020-05-31,38.73
+Tamil Nadu,2020-06-30,2.06
+Telangana,2019-05-31,2.23
+Telangana,2019-06-30,5.92
+Telangana,2019-07-31,2.45
+Telangana,2019-08-31,1.4
+Telangana,2019-09-30,5.49
+Telangana,2019-10-31,7.29
+Telangana,2019-11-30,6.47
+Telangana,2019-12-31,1.35
+Telangana,2020-01-31,5.02
+Telangana,2020-02-29,9.02
+Telangana,2020-03-31,5.63
+Telangana,2020-04-30,4.51
+Telangana,2020-05-31,34.01
+Telangana,2020-06-30,19.3
+Tripura,2019-05-31,29.25
+Tripura,2019-06-30,26.64
+Tripura,2019-07-31,22.47
+Tripura,2019-08-31,25.49
+Tripura,2019-09-30,30.23
+Tripura,2019-10-31,27.54
+Tripura,2019-11-30,25.25
+Tripura,2019-12-31,26.53
+Tripura,2020-01-31,31.91
+Tripura,2020-02-29,26.22
+Tripura,2020-03-31,31.61
+Tripura,2020-04-30,43.64
+Tripura,2020-05-31,14.71
+Tripura,2020-06-30,18.84
+Uttar Pradesh,2019-05-31,10.26
+Uttar Pradesh,2019-06-30,11.13
+Uttar Pradesh,2019-07-31,9.19
+Uttar Pradesh,2019-08-31,11.47
+Uttar Pradesh,2019-09-30,6.45
+Uttar Pradesh,2019-10-31,10.18
+Uttar Pradesh,2019-11-30,6.94
+Uttar Pradesh,2019-12-31,8.43
+Uttar Pradesh,2020-01-31,6.06
+Uttar Pradesh,2020-02-29,8.12
+Uttar Pradesh,2020-03-31,9.37
+Uttar Pradesh,2020-04-30,19.92
+Uttar Pradesh,2020-05-31,16.89
+Uttar Pradesh,2020-06-30,8.51
+Uttarakhand,2019-05-31,1.63
+Uttarakhand,2019-06-30,4.65
+Uttarakhand,2019-07-31,5.74
+Uttarakhand,2019-08-31,6.11
+Uttarakhand,2019-09-30,3.47
+Uttarakhand,2019-10-31,4.83
+Uttarakhand,2019-11-30,5.56
+Uttarakhand,2019-12-31,4.52
+Uttarakhand,2020-01-31,4.17
+Uttarakhand,2020-02-29,4.85
+Uttarakhand,2020-04-30,3.66
+Uttarakhand,2020-05-31,3.57
+Uttarakhand,2020-06-30,10.71
+West Bengal,2019-05-31,6.02
+West Bengal,2019-06-30,5.85
+West Bengal,2019-07-31,5.62
+West Bengal,2019-08-31,5.58
+West Bengal,2019-09-30,5.26
+West Bengal,2019-10-31,6.78
+West Bengal,2019-11-30,5.83
+West Bengal,2019-12-31,5.79
+West Bengal,2020-01-31,6.79
+West Bengal,2020-02-29,3.78
+West Bengal,2020-03-31,7.02
+West Bengal,2020-04-30,18.32
+West Bengal,2020-05-31,18.43
+West Bengal,2020-06-30,4.94
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Andhra Pradesh,2019-05-31,6.09
+Andhra Pradesh,2019-06-30,3.8
+Andhra Pradesh,2019-07-31,5.64
+Andhra Pradesh,2019-08-31,4.61
+Andhra Pradesh,2019-09-30,6.01
+Andhra Pradesh,2019-10-31,4.7
+Andhra Pradesh,2019-11-30,7.54
+Andhra Pradesh,2019-12-31,7.88
+Andhra Pradesh,2020-01-31,7.11
+Andhra Pradesh,2020-02-29,5.66
+Andhra Pradesh,2020-03-31,9.88
+Andhra Pradesh,2020-04-30,32.3
+Andhra Pradesh,2020-05-31,24.91
+Andhra Pradesh,2020-06-30,5.86
+Assam,2019-05-31,7.87
+Assam,2019-06-30,9.89
+Assam,2019-07-31,3.21
+Assam,2019-08-31,10.39
+Assam,2019-09-30,9.26
+Assam,2019-10-31,11.17
+Assam,2019-11-30,6.31
+Assam,2019-12-31,5.02
+Assam,2020-01-31,7.24
+Assam,2020-02-29,9.98
+Assam,2020-03-31,10.34
+Assam,2020-04-30,8.37
+Assam,2020-05-31,10.77
+Assam,2020-06-30,3.42
+Bihar,2019-05-31,19.9
+Bihar,2019-06-30,13.29
+Bihar,2019-07-31,16.41
+Bihar,2019-08-31,17.66
+Bihar,2019-09-30,20.46
+Bihar,2019-10-31,14.06
+Bihar,2019-11-30,17.62
+Bihar,2019-12-31,14.91
+Bihar,2020-01-31,20.69
+Bihar,2020-02-29,15.11
+Bihar,2020-03-31,15.73
+Bihar,2020-04-30,58.77
+Bihar,2020-05-31,37.87
+Bihar,2020-06-30,12.45
+Chandigarh,2019-05-31,18.35
+Chandigarh,2019-06-30,12.4
+Chandigarh,2019-07-31,21.8
+Chandigarh,2019-08-31,9.52
+Chandigarh,2019-09-30,20.14
+Chandigarh,2019-10-31,13.99
+Chandigarh,2019-11-30,22.05
+Chandigarh,2019-12-31,8.33
+Chandigarh,2020-01-31,20.0
+Chandigarh,2020-02-29,16.67
+Chandigarh,2020-03-31,21.43
+Chandigarh,2020-06-30,7.22
+Chhattisgarh,2019-05-31,9.77
+Chhattisgarh,2019-06-30,11.77
+Chhattisgarh,2019-07-31,8.17
+Chhattisgarh,2019-08-31,6.29
+Chhattisgarh,2019-09-30,9.46
+Chhattisgarh,2019-10-31,10.27
+Chhattisgarh,2019-11-30,8.32
+Chhattisgarh,2019-12-31,3.57
+Chhattisgarh,2020-01-31,9.01
+Chhattisgarh,2020-02-29,9.79
+Chhattisgarh,2020-03-31,8.21
+Chhattisgarh,2020-04-30,20.13
+Chhattisgarh,2020-05-31,24.1
+Chhattisgarh,2020-06-30,27.07
+Delhi,2019-05-31,12.31
+Delhi,2019-06-30,12.76
+Delhi,2019-07-31,14.68
+Delhi,2019-08-31,13.52
+Delhi,2019-09-30,20.59
+Delhi,2019-10-31,12.41
+Delhi,2019-11-30,16.11
+Delhi,2019-12-31,11.07
+Delhi,2020-01-31,22.45
+Delhi,2020-02-29,14.86
+Delhi,2020-03-31,17.09
+Delhi,2020-04-30,16.51
+Delhi,2020-05-31,45.78
+Delhi,2020-06-30,18.11
+Goa,2019-05-31,2.75
+Goa,2019-06-30,13.33
+Goa,2019-07-31,12.28
+Goa,2019-08-31,4.9
+Goa,2019-09-30,3.16
+Goa,2019-10-31,12.31
+Goa,2019-11-30,25.2
+Goa,2019-12-31,16.22
+Goa,2020-01-31,10.92
+Goa,2020-02-29,4.31
+Goa,2020-03-31,4.76
+Goa,2020-04-30,11.76
+Gujarat,2019-05-31,4.09
+Gujarat,2019-06-30,6.31
+Gujarat,2019-07-31,5.15
+Gujarat,2019-08-31,4.2
+Gujarat,2019-09-30,5.96
+Gujarat,2019-10-31,5.45
+Gujarat,2019-11-30,7.53
+Gujarat,2019-12-31,5.71
+Gujarat,2020-01-31,5.82
+Gujarat,2020-02-29,6.04
+Gujarat,2020-03-31,5.39
+Gujarat,2020-04-30,25.94
+Gujarat,2020-05-31,11.62
+Gujarat,2020-06-30,4.54
+Haryana,2019-05-31,24.67
+Haryana,2019-06-30,20.42
+Haryana,2019-07-31,25.45
+Haryana,2019-08-31,24.19
+Haryana,2019-09-30,26.84
+Haryana,2019-10-31,21.04
+Haryana,2019-11-30,27.06
+Haryana,2019-12-31,23.65
+Haryana,2020-01-31,27.24
+Haryana,2020-02-29,23.29
+Haryana,2020-03-31,27.14
+Haryana,2020-04-30,46.89
+Haryana,2020-05-31,38.46
+Haryana,2020-06-30,29.41
+Himachal Pradesh,2019-05-31,10.88
+Himachal Pradesh,2019-06-30,21.43
+Himachal Pradesh,2019-07-31,21.51
+Himachal Pradesh,2019-08-31,24.48
+Himachal Pradesh,2019-09-30,12.0
+Himachal Pradesh,2019-10-31,23.77
+Himachal Pradesh,2019-11-30,27.27
+Himachal Pradesh,2019-12-31,25.32
+Himachal Pradesh,2020-01-31,18.15
+Himachal Pradesh,2020-02-29,27.31
+Himachal Pradesh,2020-03-31,26.44
+Himachal Pradesh,2020-04-30,2.7
+Himachal Pradesh,2020-05-31,50.0
+Himachal Pradesh,2020-06-30,10.81
+Jammu & Kashmir,2019-05-31,23.04
+Jammu & Kashmir,2019-06-30,19.88
+Jammu & Kashmir,2019-07-31,21.55
+Jammu & Kashmir,2019-10-31,24.06
+Jammu & Kashmir,2019-11-30,14.29
+Jammu & Kashmir,2019-12-31,7.02
+Jammu & Kashmir,2020-01-31,18.54
+Jammu & Kashmir,2020-02-29,19.86
+Jammu & Kashmir,2020-03-31,14.29
+Jammu & Kashmir,2020-05-31,12.96
+Jharkhand,2019-05-31,17.23
+Jharkhand,2019-06-30,20.51
+Jharkhand,2019-07-31,15.67
+Jharkhand,2019-08-31,20.25
+Jharkhand,2019-09-30,21.16
+Jharkhand,2019-10-31,19.05
+Jharkhand,2019-11-30,17.34
+Jharkhand,2019-12-31,22.01
+Jharkhand,2020-01-31,22.96
+Jharkhand,2020-02-29,19.67
+Jharkhand,2020-03-31,16.4
+Jharkhand,2020-04-30,61.48
+Jharkhand,2020-05-31,70.17
+Jharkhand,2020-06-30,19.38
+Karnataka,2019-05-31,6.56
+Karnataka,2019-06-30,5.0
+Karnataka,2019-07-31,2.29
+Karnataka,2019-08-31,1.27
+Karnataka,2019-09-30,3.57
+Karnataka,2019-10-31,3.87
+Karnataka,2019-11-30,3.44
+Karnataka,2019-12-31,1.56
+Karnataka,2020-01-31,3.31
+Karnataka,2020-02-29,2.88
+Karnataka,2020-03-31,4.92
+Karnataka,2020-04-30,25.12
+Karnataka,2020-05-31,15.88
+Karnataka,2020-06-30,6.12
+Kerala,2019-05-31,6.11
+Kerala,2019-06-30,6.67
+Kerala,2019-07-31,7.58
+Kerala,2019-08-31,7.69
+Kerala,2019-09-30,5.52
+Kerala,2019-10-31,5.35
+Kerala,2019-11-30,6.71
+Kerala,2019-12-31,7.31
+Kerala,2020-01-31,6.65
+Kerala,2020-02-29,6.08
+Kerala,2020-03-31,9.14
+Kerala,2020-04-30,21.43
+Kerala,2020-05-31,30.28
+Kerala,2020-06-30,12.17
+Madhya Pradesh,2019-05-31,3.91
+Madhya Pradesh,2019-06-30,6.38
+Madhya Pradesh,2019-07-31,7.38
+Madhya Pradesh,2019-08-31,6.82
+Madhya Pradesh,2019-09-30,7.0
+Madhya Pradesh,2019-10-31,4.4
+Madhya Pradesh,2019-11-30,6.06
+Madhya Pradesh,2019-12-31,6.2
+Madhya Pradesh,2020-01-31,5.17
+Madhya Pradesh,2020-02-29,4.96
+Madhya Pradesh,2020-03-31,4.8
+Madhya Pradesh,2020-04-30,11.94
+Madhya Pradesh,2020-05-31,40.49
+Madhya Pradesh,2020-06-30,12.72
+Maharashtra,2019-05-31,6.08
+Maharashtra,2019-06-30,6.46
+Maharashtra,2019-07-31,6.35
+Maharashtra,2019-08-31,7.57
+Maharashtra,2019-09-30,7.6
+Maharashtra,2019-10-31,7.51
+Maharashtra,2019-11-30,7.6
+Maharashtra,2019-12-31,7.83
+Maharashtra,2020-01-31,6.67
+Maharashtra,2020-02-29,5.34
+Maharashtra,2020-03-31,6.34
+Maharashtra,2020-04-30,14.99
+Maharashtra,2020-05-31,15.92
+Maharashtra,2020-06-30,10.01
+Meghalaya,2019-05-31,8.4
+Meghalaya,2019-06-30,8.66
+Meghalaya,2019-07-31,4.43
+Meghalaya,2019-08-31,5.8
+Meghalaya,2019-09-30,5.3
+Meghalaya,2019-10-31,7.2
+Meghalaya,2019-11-30,3.02
+Meghalaya,2019-12-31,5.21
+Meghalaya,2020-01-31,4.76
+Meghalaya,2020-02-29,7.37
+Meghalaya,2020-03-31,2.8
+Meghalaya,2020-04-30,17.39
+Meghalaya,2020-05-31,14.58
+Odisha,2019-05-31,2.95
+Odisha,2019-06-30,2.63
+Odisha,2019-07-31,1.78
+Odisha,2019-08-31,3.5
+Odisha,2019-09-30,3.78
+Odisha,2019-10-31,4.5
+Odisha,2019-11-30,2.23
+Odisha,2019-12-31,3.36
+Odisha,2020-01-31,2.28
+Odisha,2020-02-29,2.19
+Odisha,2020-03-31,3.96
+Odisha,2020-04-30,20.5
+Odisha,2020-05-31,10.0
+Odisha,2020-06-30,2.18
+Puducherry,2019-05-31,1.25
+Puducherry,2019-06-30,0.0
+Puducherry,2019-07-31,0.0
+Puducherry,2019-08-31,8.95
+Puducherry,2019-09-30,1.22
+Puducherry,2019-10-31,1.17
+Puducherry,2019-11-30,1.37
+Puducherry,2019-12-31,5.21
+Puducherry,2020-01-31,0.57
+Puducherry,2020-02-29,1.78
+Puducherry,2020-03-31,0.62
+Puducherry,2020-04-30,76.74
+Puducherry,2020-05-31,75.0
+Puducherry,2020-06-30,4.55
+Punjab,2019-05-31,13.49
+Punjab,2019-06-30,13.17
+Punjab,2019-07-31,11.61
+Punjab,2019-08-31,11.99
+Punjab,2019-09-30,15.69
+Punjab,2019-10-31,13.75
+Punjab,2019-11-30,10.39
+Punjab,2019-12-31,11.97
+Punjab,2020-01-31,13.68
+Punjab,2020-02-29,11.99
+Punjab,2020-03-31,9.97
+Punjab,2020-04-30,1.13
+Punjab,2020-05-31,20.54
+Punjab,2020-06-30,10.55
+Rajasthan,2019-05-31,13.62
+Rajasthan,2019-06-30,14.36
+Rajasthan,2019-07-31,11.67
+Rajasthan,2019-08-31,14.71
+Rajasthan,2019-09-30,12.63
+Rajasthan,2019-10-31,13.02
+Rajasthan,2019-11-30,14.3
+Rajasthan,2019-12-31,18.04
+Rajasthan,2020-01-31,18.82
+Rajasthan,2020-02-29,17.02
+Rajasthan,2020-03-31,18.54
+Rajasthan,2020-04-30,35.53
+Rajasthan,2020-05-31,25.35
+Rajasthan,2020-06-30,13.04
+Sikkim,2019-05-31,8.2
+Sikkim,2019-06-30,7.76
+Sikkim,2019-07-31,2.56
+Sikkim,2019-08-31,4.82
+Sikkim,2019-09-30,4.81
+Sikkim,2019-10-31,9.68
+Sikkim,2019-11-30,4.04
+Sikkim,2019-12-31,7.37
+Sikkim,2020-03-31,20.45
+Sikkim,2020-04-30,5.77
+Sikkim,2020-05-31,19.75
+Sikkim,2020-06-30,2.63
+Tamil Nadu,2019-05-31,0.89
+Tamil Nadu,2019-06-30,1.56
+Tamil Nadu,2019-07-31,3.18
+Tamil Nadu,2019-08-31,9.53
+Tamil Nadu,2019-09-30,1.86
+Tamil Nadu,2019-10-31,1.13
+Tamil Nadu,2019-11-30,2.65
+Tamil Nadu,2019-12-31,8.05
+Tamil Nadu,2020-01-31,2.05
+Tamil Nadu,2020-02-29,3.31
+Tamil Nadu,2020-03-31,6.46
+Tamil Nadu,2020-04-30,45.55
+Tamil Nadu,2020-05-31,25.95
+Tamil Nadu,2020-06-30,24.93
+Telangana,2019-05-31,1.52
+Telangana,2019-06-30,1.43
+Telangana,2019-07-31,3.73
+Telangana,2019-08-31,4.19
+Telangana,2019-09-30,6.19
+Telangana,2019-10-31,6.74
+Telangana,2019-11-30,5.23
+Telangana,2019-12-31,4.22
+Telangana,2020-01-31,6.49
+Telangana,2020-02-29,6.74
+Telangana,2020-03-31,6.1
+Telangana,2020-04-30,10.5
+Telangana,2020-05-31,36.57
+Telangana,2020-06-30,6.92
+Tripura,2019-05-31,34.69
+Tripura,2019-06-30,25.59
+Tripura,2019-07-31,25.81
+Tripura,2019-08-31,33.45
+Tripura,2019-09-30,33.57
+Tripura,2019-10-31,26.67
+Tripura,2019-11-30,27.15
+Tripura,2019-12-31,33.48
+Tripura,2020-01-31,34.37
+Tripura,2020-02-29,33.88
+Tripura,2020-03-31,25.69
+Tripura,2020-04-30,34.88
+Tripura,2020-05-31,16.78
+Tripura,2020-06-30,27.47
+Uttar Pradesh,2019-05-31,14.4
+Uttar Pradesh,2019-06-30,11.62
+Uttar Pradesh,2019-07-31,11.8
+Uttar Pradesh,2019-08-31,14.73
+Uttar Pradesh,2019-09-30,13.58
+Uttar Pradesh,2019-10-31,10.35
+Uttar Pradesh,2019-11-30,11.31
+Uttar Pradesh,2019-12-31,12.37
+Uttar Pradesh,2020-01-31,12.34
+Uttar Pradesh,2020-02-29,11.65
+Uttar Pradesh,2020-03-31,12.32
+Uttar Pradesh,2020-04-30,26.94
+Uttar Pradesh,2020-05-31,32.06
+Uttar Pradesh,2020-06-30,13.05
+Uttarakhand,2019-05-31,9.17
+Uttarakhand,2019-06-30,4.69
+Uttarakhand,2019-07-31,6.94
+Uttarakhand,2019-08-31,7.43
+Uttarakhand,2019-09-30,9.62
+Uttarakhand,2019-10-31,4.72
+Uttarakhand,2019-11-30,6.34
+Uttarakhand,2019-12-31,7.39
+Uttarakhand,2020-01-31,8.92
+Uttarakhand,2020-02-29,5.28
+Uttarakhand,2020-03-31,8.15
+Uttarakhand,2020-04-30,13.18
+Uttarakhand,2020-05-31,17.36
+Uttarakhand,2020-06-30,5.08
+West Bengal,2019-05-31,7.25
+West Bengal,2019-06-30,7.38
+West Bengal,2019-07-31,7.91
+West Bengal,2019-08-31,7.27
+West Bengal,2019-09-30,7.79
+West Bengal,2019-10-31,7.83
+West Bengal,2019-11-30,6.61
+West Bengal,2019-12-31,7.24
+West Bengal,2020-01-31,7.27
+West Bengal,2020-02-29,7.55
+West Bengal,2020-03-31,6.67
+West Bengal,2020-04-30,15.63
+West Bengal,2020-05-31,15.22
+West Bengal,2020-06-30,9.86
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Andhra Pradesh,2020-01-31,5.48
+Andhra Pradesh,2020-02-29,5.83
+Andhra Pradesh,2020-03-31,5.79
+Andhra Pradesh,2020-04-30,20.51
+Andhra Pradesh,2020-05-31,17.43
+Andhra Pradesh,2020-06-30,3.31
+Andhra Pradesh,2020-07-31,8.34
+Andhra Pradesh,2020-08-31,6.96
+Andhra Pradesh,2020-09-30,6.4
+Andhra Pradesh,2020-10-31,6.59
+Assam,2020-01-31,4.66
+Assam,2020-02-29,4.41
+Assam,2020-03-31,4.77
+Assam,2020-04-30,11.06
+Assam,2020-05-31,9.55
+Assam,2020-06-30,0.6
+Assam,2020-07-31,3.77
+Assam,2020-08-31,5.53
+Assam,2020-09-30,1.19
+Assam,2020-10-31,3.02
+Bihar,2020-01-31,10.61
+Bihar,2020-02-29,10.29
+Bihar,2020-03-31,15.43
+Bihar,2020-04-30,46.64
+Bihar,2020-05-31,45.96
+Bihar,2020-06-30,17.82
+Bihar,2020-07-31,12.79
+Bihar,2020-08-31,13.44
+Bihar,2020-09-30,11.91
+Bihar,2020-10-31,9.82
+Chhattisgarh,2020-01-31,9.65
+Chhattisgarh,2020-02-29,8.38
+Chhattisgarh,2020-03-31,7.54
+Chhattisgarh,2020-04-30,3.41
+Chhattisgarh,2020-05-31,10.5
+Chhattisgarh,2020-06-30,14.23
+Chhattisgarh,2020-07-31,10.27
+Chhattisgarh,2020-08-31,5.63
+Chhattisgarh,2020-09-30,1.96
+Chhattisgarh,2020-10-31,6.62
+Delhi,2020-01-31,22.23
+Delhi,2020-02-29,14.84
+Delhi,2020-03-31,17.04
+Delhi,2020-04-30,16.68
+Delhi,2020-05-31,42.27
+Delhi,2020-06-30,18.19
+Delhi,2020-07-31,20.3
+Delhi,2020-08-31,13.79
+Delhi,2020-09-30,12.53
+Delhi,2020-10-31,6.27
+Goa,2020-01-31,8.89
+Goa,2020-02-29,2.81
+Goa,2020-03-31,5.25
+Goa,2020-04-30,13.31
+Goa,2020-05-31,21.25
+Goa,2020-06-30,9.96
+Goa,2020-07-31,17.07
+Goa,2020-08-31,16.21
+Goa,2020-09-30,15.38
+Goa,2020-10-31,11.54
+Gujarat,2020-01-31,5.54
+Gujarat,2020-02-29,6.38
+Gujarat,2020-03-31,6.66
+Gujarat,2020-04-30,18.71
+Gujarat,2020-05-31,12.11
+Gujarat,2020-06-30,3.2
+Gujarat,2020-07-31,1.84
+Gujarat,2020-08-31,1.87
+Gujarat,2020-09-30,3.42
+Gujarat,2020-10-31,4.03
+Haryana,2020-01-31,20.34
+Haryana,2020-02-29,25.77
+Haryana,2020-03-31,25.05
+Haryana,2020-04-30,43.22
+Haryana,2020-05-31,29.02
+Haryana,2020-06-30,26.7
+Haryana,2020-07-31,24.18
+Haryana,2020-08-31,33.5
+Haryana,2020-09-30,19.68
+Haryana,2020-10-31,27.31
+Himachal Pradesh,2020-01-31,16.83
+Himachal Pradesh,2020-02-29,16.84
+Himachal Pradesh,2020-03-31,18.76
+Himachal Pradesh,2020-04-30,2.2
+Himachal Pradesh,2020-05-31,26.95
+Himachal Pradesh,2020-06-30,13.47
+Himachal Pradesh,2020-07-31,24.31
+Himachal Pradesh,2020-08-31,15.79
+Himachal Pradesh,2020-09-30,12.04
+Himachal Pradesh,2020-10-31,13.46
+Jammu & Kashmir,2020-01-31,21.08
+Jammu & Kashmir,2020-02-29,20.78
+Jammu & Kashmir,2020-03-31,15.5
+Jammu & Kashmir,2020-05-31,18.74
+Jammu & Kashmir,2020-06-30,17.92
+Jammu & Kashmir,2020-07-31,10.88
+Jammu & Kashmir,2020-08-31,11.09
+Jammu & Kashmir,2020-09-30,16.17
+Jammu & Kashmir,2020-10-31,16.14
+Jharkhand,2020-01-31,10.61
+Jharkhand,2020-02-29,11.85
+Jharkhand,2020-03-31,8.23
+Jharkhand,2020-04-30,47.09
+Jharkhand,2020-05-31,59.23
+Jharkhand,2020-06-30,20.95
+Jharkhand,2020-07-31,7.63
+Jharkhand,2020-08-31,9.76
+Jharkhand,2020-09-30,8.24
+Jharkhand,2020-10-31,11.8
+Karnataka,2020-01-31,2.86
+Karnataka,2020-02-29,3.61
+Karnataka,2020-03-31,3.46
+Karnataka,2020-04-30,29.84
+Karnataka,2020-05-31,19.97
+Karnataka,2020-06-30,8.44
+Karnataka,2020-07-31,4.01
+Karnataka,2020-08-31,0.5
+Karnataka,2020-09-30,2.41
+Karnataka,2020-10-31,1.58
+Kerala,2020-01-31,5.31
+Kerala,2020-02-29,7.6
+Kerala,2020-03-31,8.99
+Kerala,2020-04-30,16.99
+Kerala,2020-05-31,17.88
+Kerala,2020-06-30,9.71
+Kerala,2020-07-31,7.09
+Kerala,2020-08-31,10.98
+Kerala,2020-09-30,5.91
+Kerala,2020-10-31,3.88
+Madhya Pradesh,2020-01-31,4.11
+Madhya Pradesh,2020-02-29,4.57
+Madhya Pradesh,2020-03-31,2.22
+Madhya Pradesh,2020-04-30,12.36
+Madhya Pradesh,2020-05-31,21.98
+Madhya Pradesh,2020-06-30,6.48
+Madhya Pradesh,2020-07-31,5.08
+Madhya Pradesh,2020-08-31,4.7
+Madhya Pradesh,2020-09-30,3.91
+Madhya Pradesh,2020-10-31,3.13
+Maharashtra,2020-01-31,4.95
+Maharashtra,2020-02-29,4.69
+Maharashtra,2020-03-31,5.79
+Maharashtra,2020-04-30,20.9
+Maharashtra,2020-05-31,15.46
+Maharashtra,2020-06-30,9.23
+Maharashtra,2020-07-31,3.89
+Maharashtra,2020-08-31,6.23
+Maharashtra,2020-09-30,4.55
+Maharashtra,2020-10-31,4.1
+Meghalaya,2020-01-31,1.66
+Meghalaya,2020-02-29,3.59
+Meghalaya,2020-03-31,1.58
+Meghalaya,2020-04-30,10.03
+Meghalaya,2020-05-31,5.92
+Meghalaya,2020-06-30,1.15
+Meghalaya,2020-07-31,2.1
+Meghalaya,2020-08-31,3.74
+Meghalaya,2020-09-30,4.29
+Meghalaya,2020-10-31,4.6
+Odisha,2020-01-31,1.9
+Odisha,2020-02-29,3.12
+Odisha,2020-03-31,13.08
+Odisha,2020-04-30,23.76
+Odisha,2020-05-31,11.41
+Odisha,2020-06-30,3.77
+Odisha,2020-07-31,1.88
+Odisha,2020-08-31,1.42
+Odisha,2020-09-30,2.1
+Odisha,2020-10-31,2.18
+Puducherry,2020-01-31,0.58
+Puducherry,2020-02-29,1.76
+Puducherry,2020-03-31,1.2
+Puducherry,2020-04-30,75.85
+Puducherry,2020-05-31,58.19
+Puducherry,2020-06-30,4.24
+Puducherry,2020-07-31,15.47
+Puducherry,2020-08-31,5.05
+Puducherry,2020-09-30,10.9
+Puducherry,2020-10-31,6.18
+Punjab,2020-01-31,11.11
+Punjab,2020-02-29,10.97
+Punjab,2020-03-31,10.32
+Punjab,2020-04-30,2.86
+Punjab,2020-05-31,28.33
+Punjab,2020-06-30,16.55
+Punjab,2020-07-31,9.19
+Punjab,2020-08-31,10.99
+Punjab,2020-09-30,9.61
+Punjab,2020-10-31,9.88
+Rajasthan,2020-01-31,10.97
+Rajasthan,2020-02-29,15.16
+Rajasthan,2020-03-31,11.9
+Rajasthan,2020-04-30,17.7
+Rajasthan,2020-05-31,15.74
+Rajasthan,2020-06-30,14.39
+Rajasthan,2020-07-31,15.81
+Rajasthan,2020-08-31,17.51
+Rajasthan,2020-09-30,15.35
+Rajasthan,2020-10-31,24.15
+Sikkim,2020-03-31,23.57
+Sikkim,2020-04-30,2.28
+Sikkim,2020-05-31,24.51
+Sikkim,2020-06-30,4.46
+Sikkim,2020-07-31,4.45
+Sikkim,2020-08-31,12.49
+Sikkim,2020-09-30,5.7
+Sikkim,2020-10-31,0.88
+Tamil Nadu,2020-01-31,1.57
+Tamil Nadu,2020-02-29,2.09
+Tamil Nadu,2020-03-31,6.4
+Tamil Nadu,2020-04-30,49.83
+Tamil Nadu,2020-05-31,33.16
+Tamil Nadu,2020-06-30,12.2
+Tamil Nadu,2020-07-31,6.81
+Tamil Nadu,2020-08-31,2.65
+Tamil Nadu,2020-09-30,5.0
+Tamil Nadu,2020-10-31,2.16
+Telangana,2020-01-31,5.49
+Telangana,2020-02-29,8.29
+Telangana,2020-03-31,5.77
+Telangana,2020-04-30,6.25
+Telangana,2020-05-31,14.7
+Telangana,2020-06-30,10.55
+Telangana,2020-07-31,5.36
+Telangana,2020-08-31,5.79
+Telangana,2020-09-30,3.27
+Telangana,2020-10-31,2.86
+Tripura,2020-01-31,32.67
+Tripura,2020-02-29,28.4
+Tripura,2020-03-31,29.95
+Tripura,2020-04-30,41.23
+Tripura,2020-05-31,21.51
+Tripura,2020-06-30,21.71
+Tripura,2020-07-31,18.24
+Tripura,2020-08-31,27.92
+Tripura,2020-09-30,17.35
+Tripura,2020-10-31,11.57
+Uttar Pradesh,2020-01-31,7.58
+Uttar Pradesh,2020-02-29,8.98
+Uttar Pradesh,2020-03-31,10.11
+Uttar Pradesh,2020-04-30,21.54
+Uttar Pradesh,2020-05-31,20.41
+Uttar Pradesh,2020-06-30,9.47
+Uttar Pradesh,2020-07-31,5.56
+Uttar Pradesh,2020-08-31,5.79
+Uttar Pradesh,2020-09-30,4.18
+Uttar Pradesh,2020-10-31,3.75
+Uttarakhand,2020-01-31,5.49
+Uttarakhand,2020-02-29,4.99
+Uttarakhand,2020-03-31,19.85
+Uttarakhand,2020-04-30,6.48
+Uttarakhand,2020-05-31,8.01
+Uttarakhand,2020-06-30,8.61
+Uttarakhand,2020-07-31,12.38
+Uttarakhand,2020-08-31,14.26
+Uttarakhand,2020-09-30,22.26
+Uttarakhand,2020-10-31,9.23
+West Bengal,2020-01-31,6.94
+West Bengal,2020-02-29,4.92
+West Bengal,2020-03-31,6.92
+West Bengal,2020-04-30,17.41
+West Bengal,2020-05-31,17.41
+West Bengal,2020-06-30,7.29
+West Bengal,2020-07-31,6.83
+West Bengal,2020-08-31,14.87
+West Bengal,2020-09-30,9.35
+West Bengal,2020-10-31,9.98
